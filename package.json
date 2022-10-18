@@ -1,6 +1,8 @@
 {
   "name": "react-leaflet-markers-in-polygon",
   "main": "/src/index.js",
+  "license": "MIT",
+  "repository": "MErenTalan/react-leaflet-markers-in-polygon",
   "version": "1.0.0",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
