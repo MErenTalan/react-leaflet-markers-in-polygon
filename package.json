@@ -1,6 +1,8 @@
 {
   "name": "react-leaflet-markers-in-polygon",
   "main": "/src/polygonMarkers.js",
+  "keywords": ["react","leaflet","map","markers","polygon","EditControl", "leaflet-draw"],
+  "description": "This package will help you to see markers in polygon that you draw with react-leaflet-draw",
   "license": "MIT",
   "repository": "MErenTalan/react-leaflet-markers-in-polygon",
   "version": "1.1.0",

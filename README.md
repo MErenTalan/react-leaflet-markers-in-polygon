@@ -41,3 +41,6 @@ _deleted(e)
 // Other stuff
 ></EditControl>
 ```
+
+# CONTACT
+You're free to ask anything to me via merentalan@gmail.com 
